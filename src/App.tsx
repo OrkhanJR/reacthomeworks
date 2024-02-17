@@ -1,10 +1,12 @@
 import React from "react";
-import Timer from "./components/Timer/Timer"
+// import Timer from "./components/Timer/Timer"
+import ModalWindow from "./components/Modal/ModalWindow/ModalWindow";
 
 const App = () => {
   return (
     <>
-    <Timer />
+    <ModalWindow />
+
     </>
   )
 }
