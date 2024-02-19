@@ -6,9 +6,13 @@
   align-items: center;
 }
 
+.background-active {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+
 .modalContent {
   padding: 10px;
-  box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
+  box-shadow: rgba(100, 100, 111, 0.5) 0px 7px 29px 0px;
   background-color: whitesmoke;
   border: 2px solid rgb(240, 240, 240);
   border-radius: 12px;
